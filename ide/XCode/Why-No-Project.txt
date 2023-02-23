@@ -1,0 +1,2 @@
+XCode can use the libz that comes with macOS.  No reason to build
+a separate project.
